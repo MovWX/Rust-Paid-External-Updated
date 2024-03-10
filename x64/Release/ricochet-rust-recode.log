@@ -1,0 +1,284 @@
+﻿  Assembling syscall.asm...
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  aimbot.cpp
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  baseplayer.cpp
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  communication.cpp
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  esp.cpp
+  imgui.cpp
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  include.cpp
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  item.cpp
+cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+cl : befehlszeile  warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
+  math.cpp
+  misc.cpp
+  overlay.cpp
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\imgui\imgui_impl_win32.cpp(158,38): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\imgui\imgui_impl_win32.cpp(158,31): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  sdk.cpp
+  main.cpp
+  object_loop.cpp
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\baseplayer.cpp(76,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\imgui\imgui_widgets.cpp(318,21): warning C4101: "key_name": Unreferenzierte lokale Variable
+  steam.cpp
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\overlay.cpp(9,16): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\overlay.cpp(25,20): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\overlay.cpp(26,20): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\overlay.cpp(27,20): warning C4309: "Argument": Verkürzung eines konstanten Wertes
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\misc.cpp(125,81): warning C4244: "Argument": Konvertierung von "double" in "t", möglicher Datenverlust
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\misc.cpp(125,81): warning C4244:         with
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\misc.cpp(125,81): warning C4244:         [
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\misc.cpp(125,81): warning C4244:             t=float
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\misc.cpp(125,81): warning C4244:         ]
+  unity.cpp
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(70,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(153,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(170,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(435,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(435,3):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(90,5):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_staticstringset<game::staticStringSet>(T &,ImColor)" der Funktions-Vorlage.
+          with
+          [
+              T=game::staticStringSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(464,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(464,3):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(96,5):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_staticstringcolorset<game::staticStringColorSet>(T &)" der Funktions-Vorlage.
+          with
+          [
+              T=game::staticStringColorSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(345,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(345,3):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(110,6):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_stringset<game::stringSet>(T &)" der Funktions-Vorlage.
+          with
+          [
+              T=game::stringSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(370,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(370,3):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(119,5):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_raidset<game::raidSet>(T &)" der Funktions-Vorlage.
+          with
+          [
+              T=game::raidSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(555,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(555,5):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(122,5):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_player<game::entSet>(T &)" der Funktions-Vorlage.
+          with
+          [
+              T=game::entSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(499,45): warning C4474: "sprintf": zu viele Argumente für Formatzeichenfolge übergeben
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(499,45):
+  Platzhalter und deren Parameter erwarten 1 variadic-Argumente, es wurden aber 2 variadic-Argumente bereitgestellt.
+  C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(499,45):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esp.cpp(128,5):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void ESP_staticstringlistcolorset<game::staticStringListColorSet>(T &)" der Funktions-Vorlage.
+          with
+          [
+              T=game::staticStringListColorSet
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(493,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(499,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (Quelldatei „esp.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(996,21):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\esputils.hpp(996,2):
+  		Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "GetSystemFontFile" anzeigen
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(408,49): warning C4244: "Argument": Konvertierung von "ULONG64" in "const _Kty", möglicher Datenverlust
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(408,49): warning C4244:         with
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(408,49): warning C4244:         [
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(408,49): warning C4244:             _Kty=ULONG
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(408,49): warning C4244:         ]
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(839,34): warning C4244: "Argument": Konvertierung von "ULONG64" in "const _Kty", möglicher Datenverlust
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(839,34): warning C4244:         with
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(839,34): warning C4244:         [
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(839,34): warning C4244:             _Kty=ULONG
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(839,34): warning C4244:         ]
+C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(845,36): warning C4244: "Argument": Konvertierung von "ULONG64" in "unsigned long", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: "Initialisierung": Konvertierung von "_Ty" in "_Ty1", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty=ULONG64
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=const ULONG
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  (Quelldatei „object_loop.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(409,24):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<ULONG64,std::string&>(ULONG64 &&,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Ty=std::pair<const ULONG,std::string>,
+              _Kty=ULONG,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+  		C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(409,33):
+  		Ersten Verweis auf "std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace" in "object::main" anzeigen
+          with
+          [
+              _Kty=ULONG,
+              _Ty=std::string,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xhash(619,53):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<_Ty,std::string&>(_Alnode &,_Ty &&,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>,
+              _Ty=ULONG64,
+              _Alnode=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\list(585,25):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64,std::string&>(_Alloc &,_Objty *const ,unsigned __int64 &&,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const ULONG,std::string>,
+              _Objty=std::pair<const ULONG,std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<const ULONG,std::string>::pair<_Ty,std::string&,0>(_Other1 &&,_Other2) noexcept(false)" der Funktions-Vorlage.
+          with
+          [
+              _Ty=ULONG64,
+              _Other1=ULONG64,
+              _Other2=std::string &
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: "Initialisierung": Konvertierung von "uintptr_t" in "_Ty1", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=const ULONG
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  (Quelldatei „object_loop.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(842,22):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<ULONG64&,std::string&>(ULONG64 &,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Ty=std::pair<const ULONG,std::string>,
+              _Kty=ULONG,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+  		C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\object_loop.cpp(842,31):
+  		Ersten Verweis auf "std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace" in "object::main" anzeigen
+          with
+          [
+              _Kty=ULONG,
+              _Ty=std::string,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xhash(619,53):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<uintptr_t&,std::string&>(_Alnode &,uintptr_t &,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>,
+              _Alnode=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\list(585,25):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,uintptr_t&,std::string&>(_Alloc &,_Objty *const ,uintptr_t &,std::string &)" der Funktions-Vorlage.
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const ULONG,std::string>,
+              _Objty=std::pair<const ULONG,std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  	Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<const ULONG,std::string>::pair<uintptr_t&,std::string&,0>(_Other1,_Other2) noexcept(false)" der Funktions-Vorlage.
+          with
+          [
+              _Other1=uintptr_t &,
+              _Other2=std::string &
+          ]
+  
+  ricochet-rust-recode.vcxproj -> C:\Users\DarkingErorlVoids\Downloads\Rico-Cheat-rust-external-main (1)\Rico-Cheat-rust-external-main\x64\Release\cheat.dll
